@@ -1,0 +1,8 @@
+{
+    "parent":"dynamictrees:block/smartmodel/sapling",
+    "textures":{
+        "particle":"terraincognita:block/hazel/leaves",
+        "log":"terraincognita:block/hazel/log",
+        "leaves":"terraincognita:block/hazel/leaves"
+    }
+}

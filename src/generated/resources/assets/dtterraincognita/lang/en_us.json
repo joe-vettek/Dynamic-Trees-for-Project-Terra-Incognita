@@ -1,0 +1,11 @@
+{
+  "block.dtterraincognita.blossoming_apple_sapling": "Blossoming Apple Sapling",
+  "block.dtterraincognita.hazel_branch": "Hazel Tree",
+  "block.dtterraincognita.hazel_sapling": "Hazel Sapling",
+  "block.minecraft.air": "Blossoming Apple Tree",
+  "dtterraincognita": "Dynamic Trees for Terra Incognita",
+  "item.dtterraincognita.blossoming_apple_seed": "Blossoming Apple Kernel",
+  "item.dtterraincognita.hazel_seed": "Hazelnut",
+  "species.dtterraincognita.blossoming_apple": "Blossoming Apple",
+  "species.dtterraincognita.hazel": "Hazel"
+}

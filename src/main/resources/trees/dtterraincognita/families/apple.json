@@ -1,0 +1,7 @@
+{
+    "common_leaves":"dtterraincognita:apple",
+    "common_species":"dtterraincognita:blossoming_apple",
+    "primitive_log":"terraincognita:apple_log",
+    "primitive_stripped_log":"terraincognita:stripped_apple_log",
+    "max_branch_radius":8
+}

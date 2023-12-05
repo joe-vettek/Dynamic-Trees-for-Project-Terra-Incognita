@@ -1,0 +1,7 @@
+{
+    "common_leaves":"dtterraincognita:hazel",
+    "common_species":"dtterraincognita:hazel",
+    "primitive_log":"terraincognita:hazel_log",
+    "primitive_stripped_log":"terraincognita:stripped_hazel_log",
+    "max_branch_radius":8
+}

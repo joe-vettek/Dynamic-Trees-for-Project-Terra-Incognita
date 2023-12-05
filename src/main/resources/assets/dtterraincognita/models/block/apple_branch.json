@@ -1,0 +1,7 @@
+{
+    "loader":"dynamictrees:branch",
+    "textures":{
+        "bark":"terraincognita:block/apple/log",
+        "rings":"terraincognita:block/apple/log_top"
+    }
+}

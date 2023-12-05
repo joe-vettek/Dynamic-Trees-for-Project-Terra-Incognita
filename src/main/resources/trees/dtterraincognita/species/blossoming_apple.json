@@ -1,0 +1,42 @@
+{
+  "family": "dtterraincognita:apple",
+  "tapering": 0.4,
+  "signal_energy": 11.0,
+  "up_probability": 0.8,
+  "lowest_branch_height": 4,
+  "growth_rate": 0.7,
+  "leaves_properties": "dtterraincognita:apple",
+  "environment_factors": {
+    "cold": 0.75,
+    "hot": 0.5,
+    "dry": 0.5,
+    "forest": 1.05
+  },
+  "perfect_biomes": {
+    "types": [
+      "forest",
+      "overworld"
+    ]
+  },
+  "primitive_sapling": "terraincognita:apple_sapling",
+  "always_show_on_waila": false,
+  "generate_seed": true,
+  "generate_sapling": true,
+  "fruits": [
+    "dtterraincognita:apple"
+  ],
+  "features": [
+    {
+      "name": "alt_leaves",
+      "properties": {
+        "alternative_leaves": "dtterraincognita:blossoming_apple"
+      }
+    },
+    {
+      "name": "fruit",
+      "properties": {
+        "fruit": "dtterraincognita:apple"
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+    "parent":"dynamictrees:item/branch",
+    "textures":{
+        "bark":"terraincognita:block/hazel/log",
+        "rings":"terraincognita:block/hazel/log_top"
+    }
+}
