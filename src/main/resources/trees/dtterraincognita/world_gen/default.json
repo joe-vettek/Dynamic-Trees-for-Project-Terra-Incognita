@@ -1,20 +1,5 @@
 [
-  {
-    "__comment": "Cancel standard tree features from the overworld.",
-    "select": {
-      "name": "minecraft:.*"
-    },
-    "cancellers": {
-      "types": [
-        "tree",
-        "dtterraincognita:tctree"
-      ],
-      "namespaces": [
-        "minecraft",
-        "terraincognita"
-      ]
-    }
-  },
+
   {
     "select": {
       "type": "plains"

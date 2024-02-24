@@ -2,11 +2,12 @@ package xueluoanping.dtterraincognita.data;
 
 import com.ferreusveritas.dynamictrees.data.provider.DTBlockTagsProvider;
 import com.ferreusveritas.dynamictrees.data.provider.DTItemTagsProvider;
+import com.ferreusveritas.dynamictrees.data.provider.DTLootTableProvider;
 import com.ferreusveritas.dynamictrees.resources.Resources;
 import net.minecraft.data.DataGenerator;
 import net.minecraftforge.common.BiomeDictionary;
 import net.minecraftforge.common.data.ExistingFileHelper;
-import net.minecraftforge.fml.event.lifecycle.GatherDataEvent;
+import net.minecraftforge.forge.event.lifecycle.GatherDataEvent;
 import xueluoanping.dtterraincognita.DTTerrainCognita;
 import xueluoanping.dtterraincognita.data.lang.Lang_EN;
 import xueluoanping.dtterraincognita.data.lang.Lang_ZH;

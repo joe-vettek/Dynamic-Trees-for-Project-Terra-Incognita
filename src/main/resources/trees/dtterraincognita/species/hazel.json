@@ -18,18 +18,26 @@
       "overworld"
     ]
   },
-  "primitive_sapling": "terraincognita:hazel_sapling",
+  "primitive_saplings": [
+    "terraincognita:hazel_sapling",
+    {
+      "sapling_item": "terraincognita:hazelnut",
+      "can_craft_seed_to_sapling": false
+    }
+  ],
   "always_show_on_waila": false,
   "generate_seed": true,
   "generate_sapling": true,
   "fruits": [
     "dtterraincognita:hazelnut"
   ],
+
   "features": [
     {
       "name": "fruit",
       "properties": {
-        "fruit": "dtterraincognita:hazelnut"
+        "fruit": "dtterraincognita:hazelnut",
+        "fruiting_radius": 6
       }
     }
   ]
